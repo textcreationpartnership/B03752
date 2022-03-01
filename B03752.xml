@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The excellent virtues and uses of the great antidote of Van Helmon, Paracelsus, and Crollius; by them called the elixir proprietatis: Known by all physicians to be the greatest cordial and only medicine in the world for long and sound life: restoring nature even at the point of death, and effectually taking away the seeds of all diseases. / Written by J.H. a lover of truth; and made publick for the good of all people.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03752</idno>
+            <idno type="STC">Wing H65A</idno>
+            <idno type="STC">ESTC R177773</idno>
+            <idno type="EEBO-CITATION">47012466</idno>
+            <idno type="OCLC">ocm 47012466</idno>
+            <idno type="VID">174432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174432)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2688:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The excellent virtues and uses of the great antidote of Van Helmon, Paracelsus, and Crollius; by them called the elixir proprietatis: Known by all physicians to be the greatest cordial and only medicine in the world for long and sound life: restoring nature even at the point of death, and effectually taking away the seeds of all diseases. / Written by J.H. a lover of truth; and made publick for the good of all people.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed Anno Domini 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. 8.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Paracelsus, 1493-1541.</term>
+               <term>Croll, Oswald, ca. 1560-1609.</term>
+               <term>Helmont, Franciscus Mercurius van, 1614-1699.</term>
+               <term>Therapeutics --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Elixirs --  Great Britain --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174432:1"/>
+            <p>The Excellent VIRTUES and USES OF THE GREAT ANTIDOTE OF Van Helmont, Paracelſus, and Crollius; By them called the Elixir Proprietatis: Known by all PHYSICIANS To be the greateſt Cordial and only Medi<g ref="char:EOLhyphen"/>cine in the World for long and ſound Life: Reſtoring Nature even at the Point of Death, and effectually taking away the Seeds of all Diſeaſes.</p>
+            <p>Written by J. H. a Lover of Truth; And made Publick for the Good of all PEOPLE.</p>
+            <p>LONDON, Printed Anno Domini, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="medicinal_treatise">
+            <pb facs="tcp:174432:2"/>
+            <pb n="3" facs="tcp:174432:2"/>
+            <head>The True and Excellent ELIXIR PROPRIETATIS: WITH Its Virtues, and Directions for the Uſe thereof.</head>
+            <p>ELIXIR PROPRIETATIS is Compounded of three Excellent materials, as Myrrh, Alloes, and Saffron, Pſal. 45. verſ. 8. 'Tis the Spirit or Eſſence of theſe three, whoſe Virtues by the Learned is much admired, to be both preſervers, and reſtorers of Bodily Health: Firſt, Myrrh prevents Infection and Putrifaction: Secondly, Alloes purges the Stomach of all cold and flegma<g ref="char:EOLhyphen"/>tick Humours: Thirdly, Saffron chears the Heart, and much revives and quickens the Brain and Senſes, and cauſeth Digeſti<g ref="char:EOLhyphen"/>on: Paracelſus and Van Helmont have of this admirable Elixir Proprietatis written very largely in commendation hereof, commending it to be the ſhield of Nature, to defend her from whatſoever enemies encounters or aſſaults her. It would fill a Volumn to ſet down the wonderful Opperations and Excellent Virtues that are deliver'd by theſe and other Authors.</p>
+            <div type="remedy">
+               <head>Conſumption and Coughs.</head>
+               <p>FOr ſuch who are waſted by lingring Conſumptions, Hectick Feavers, and Coughs, half a Spoonful taken in a good Glaſs of old Maliga Sack for 9 or 10 Mornings together, will in that time find both Stomach and Strength reſtored in a com<g ref="char:EOLhyphen"/>petent meaſure.</p>
+            </div>
+            <div type="remedy">
+               <pb n="4" facs="tcp:174432:3"/>
+               <head>Dropſie and Scurvey.</head>
+               <p>FOr the Dropſie and Scurvey the like quantity of half a Spoonful or leſs taken in half a Pint of Rhiniſh Worm<g ref="char:EOLhyphen"/>wood Wine is a ſpecial Remedy, if ſo taken for 7 Mornings together, Faſting for two hours after, and Walking a Mile or two after it.</p>
+            </div>
+            <div type="remedy">
+               <head>Convulſions and Apoplexies in Old and Young.</head>
+               <p>FOr all manner of Convulſions, Apoplexies, and Palſies, Pains of the Head, both for Old or Young, it is the moſt infalli<g ref="char:EOLhyphen"/>ble Cure in the World: The Fountain of which Diſeaſes proceed chiefly from corrupt windy Obſtructions that hinder the courſe of Nature; Thoſe who are Aged 'twixt 30 and 60, may take above half a Spoonful, in half a Pint of Old Ma<g ref="char:EOLhyphen"/>liga Sack, when they perceive the Fit coming, or when they are in it. It has been given to Children of 5 Dayes old, in their Convulſion Fits, giving them about 6 or 7 Drops in a Spoonful of Sack, and by ſo doing, in three or four times they have been perfectly Cured.</p>
+            </div>
+            <div type="remedy">
+               <head>For Nurſes who give Suck.</head>
+               <p>THerefore I adviſe all Nurſes, who have Children that are inclined to Convulſions, or the Rickets, never to be with<g ref="char:EOLhyphen"/>out it; and alſo to take of it themſelves, ſometimes in a Glaſs of Sack: And if there be any defects in their Milk, this will remove them.</p>
+               <p>And in theſe Convulſion Fits, or Apoplexies, it may be taken in Brandy, or Anniſeed-Water, where Sack is wanting.</p>
+            </div>
+            <div type="remedy">
+               <pb n="5" facs="tcp:174432:3"/>
+               <head>For the Head-Ach.</head>
+               <p>FOr thoſe which are troubled with continual Head-Ach, which is cauſed by Obſtructions or cold and undigeſted Matter, that remains in the parts of the Stomach, which will in a few dayes be removed, if you take half a Spoonful or leſs in a Glaſs of Sack or Reniſh.</p>
+            </div>
+            <div type="remedy">
+               <head>For Agues.</head>
+               <p>FOr the Tertian or Third day Ague, this is an infallible Remedy; and is to be taken in this Diſeaſe four times a day, half a Spoonful in a Glaſs of good Sack, and as ſoon as they find the Cold Fit coming upon them, to put themſelves into a warm Bed; and in thus doing, you ſhall every time find the Fits to abate, and in eight or nine dayes, following theſe Directions, it will be perfectly removed.</p>
+            </div>
+            <div type="remedy">
+               <head>Small-Pox or Meaſles.</head>
+               <p>FOr the Small Pox or Meaſles, this is of ſingular Virtue to drive the Malignances of theſe Diſeaſes from the Heart and Liver: Let them not neglect it. Take half a Spoonful in a Glaſs of Sack, 3 times a day, as ſoon as you perceive this Diſtemper appear, if the party be near 20; but if a Child, then a quarter of a Spoonful: This will bring the Patient to a Moderate Sweat, and procure reſt; for this Elixir corrobo<g ref="char:EOLhyphen"/>rates and ſtrengthens the Vitals to reſiſt the putrifaction of the Diſeaſe, that when they come forth, few or none will ever Pit, or deform the Face, or Body, as Experience hath proved.</p>
+            </div>
+            <div type="remedy">
+               <pb n="6" facs="tcp:174432:4"/>
+               <head>For Fitts of the Mother, and Windy Diſtempers of the Spleen.</head>
+               <p>FOr thoſe that are troubled with Fits of the Mother, and Windy Vapours from the Spleen, this Elixir is an admi<g ref="char:EOLhyphen"/>rable Remedy, the Patient taking half a Spoonful in a Glaſs of Sack, for five or ſix Mornings and Evenings together; and alſo when they are in any Fit, then to take at leaſt a Spoonful; which Spoonful ſhall opperate more than a Gallon of other Phyſick.</p>
+            </div>
+            <div type="remedy">
+               <head>Againſt the Plague or Peſtilence.</head>
+               <p>AGainſt the Plague or Peſtilence, there never was a more excellent Antidote found out, both for prevention and Cure. In the time of the late dreadful Plague, 1665. many of which are now alive, able to give Teſtimony of their wonderful preſervation, by the Bleſſing of Almighty God, and the uſe of this admirable Elixir, of which every Morning they took, about half a Spoonful in a Glaſs of Sack, and went about their affairs in the City. Thus they which found them<g ref="char:EOLhyphen"/>ſelves to have any Symptoms of the Plague, had directions to take a Spoonful at leaſt in a Glaſs of Sack, or in Carduus Poſſet, and to get into a warm Bed, where by gentle Sweating, the Malignancy of the Diſeaſe has been removed, and in doing ſo three Mornings and Evenings together, have been perfect<g ref="char:EOLhyphen"/>ly well, and able to go abroad.</p>
+            </div>
+            <div type="remedy">
+               <head>Againſt Surfeits.</head>
+               <p>FOr ſuch as have taken a Surfeit, either by over-charging their Stomachs by ill Diet, or bad Wines, and are there<g ref="char:EOLhyphen"/>upon taken ſuddainly very Sick, let them immediately take half a Spoonful of this Elixir, in a Glaſs of good Sack, the which will infallibly ſo opperate in the Stomach, that either by Vomit or by Stool it will ſpeedily remove the cauſe; but this ever obſerve, that if the firſt draught ſhall cauſe the Patient to
+<pb n="7" facs="tcp:174432:4"/>Vomit, that he do immediately drink another, the which will then ſo comfort and ſtrengthen the Stomach, that it will ſoon recover its former Vigor.</p>
+            </div>
+            <div type="remedy">
+               <head>Collick, or the Griping in the Guts.</head>
+               <p>FOr ſuch as are troubled with the Collick, or the Griping in the Guts, it has been experimentally approved, by taking half a Spoonful in a Glaſs of Sack, both at Morning and Night; 'Twill give eaſe both upwards and downwards in this Diſtemper.</p>
+            </div>
+            <div type="remedy">
+               <head>Green-Sickneſs.</head>
+               <p>FOr young Virgins, who are moſt ſubject to the Diſtemper called the Green-Sickneſs, let them every Morning, for 8 or 9 Mornings together, drink half a Spoonful hereof in Rhiniſh Worm-wood-Wine, and afterwards to walk 2 or 3 Miles, ſhall find that it will produce Roſes in their Cheeks, in a very few Weeks.</p>
+            </div>
+            <div type="remedy">
+               <head>For Women in Child-bed.</head>
+               <p>THis Elixir, hath been often approved to admiration, for a wonderful Cordial for Women in Labour, to whom have been given half a Spoonful in a Glaſs of Sack, in the height of their pains, the which hath both revived and Streng<g ref="char:EOLhyphen"/>thened them, and much facilitated and haſtened their Delivery.</p>
+               <p>Many other Excellent Virtues might be truly written, but this may ſuffice, that many, who have had experience in one or two, and others that have not had any, may be encouraged to the uſe and benefit thereof; which, through the Bleſſing of God, will be to their good and well-being.</p>
+               <p>One quarter of a Spoonful may be effectual in diver<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Diſtempers.</p>
+            </div>
+         </div>
+         <div type="advert_for_elixir">
+            <pb n="8" facs="tcp:174432:5"/>
+            <p>This Medicine truly prepared, that neither the heat of the Sun, nor the coldeſt Froſt nor Age can hurt it, is to be had at this Authors Houſe, at the Sign of John Baptiſta Van Helmont in Crutched-Friers near great Tower-hill, the ſecond door in Chain Ally; at Mr. Horn's a Book<g ref="char:EOLhyphen"/>ſeller entring into the Royal-Exchange; at Major Nathaniel Brook's at the Angel in Corn-hill; at Mr. Hancock's at the Three Bibles in Popes-Head-Ally; at Mr. Nevil's at the Gray-hound in St. Paul's Church-yard; at Mr Playford's Stationer in the Temple; at Mr. Lound's Stationer over againſt Exeter Houſe in the Strand, at the Tobacco-Roll and Spur near Turn-ſtile Holborn; at Mr. Gavell's at the Faulcon in Weſtminſter-Hall; and Mrs. Fleming's at the Lamb in White-chappel near the Church.</p>
+            <p>Each Glaſs contains either One Ounce or Half an Ounce: the price being 5 s. the Ounce, and 2 s. 6 d. the Half.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
